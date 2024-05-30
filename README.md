@@ -27,12 +27,12 @@ Text.typewriter('This text will be typed out character by character.', 50);
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/text-formatting-utility.git
+git clone https://github.com/vrzaq/tint-tape.git
 ```
 
 2. Install the required dependencies:
 ```
-cd text-formatting-utility
+cd tint-tape
 npm install
 ```
 
