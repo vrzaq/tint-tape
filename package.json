@@ -1,0 +1,27 @@
+{
+  "name": "tint-tape",
+  "version": "1.0.0",
+  "description": "Text Formatting Utility for the Console",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrzaq/tint-tape.git"
+  },
+  "keywords": [
+    "terminal",
+    "color",
+    "formatting",
+    "ansi",
+    "console"
+  ],
+  "author": "Arifi Razzaq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrzaq/tint-tape/issues"
+  },
+  "homepage": "https://github.com/vrzaq/tint-tape#readme"
+}
